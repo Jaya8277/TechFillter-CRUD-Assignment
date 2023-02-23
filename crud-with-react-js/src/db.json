@@ -1,0 +1,40 @@
+{
+  "EmployesData": [
+    {
+      "name": "Jaya Vishwakarma",
+      "age": "20",
+      "designation": "Frontend Developer",
+      "id": 1
+    },
+    {
+      "name": "TechFlitter",
+      "age": "5",
+      "designation": "Developers",
+      "id": 2
+    },
+    {
+      "name": "Node",
+      "age": "6",
+      "designation": "Node Js Developer",
+      "id": 3
+    },
+    {
+      "name": "Aruhi",
+      "age": "24",
+      "designation": "Android Developer",
+      "id": 4
+    },
+    {
+      "name": "UI",
+      "age": "30",
+      "designation": "ui developer",
+      "id": 5
+    },
+    {
+      "name": "Amazing",
+      "age": "40",
+      "designation": "Creative Developers",
+      "id": 6
+    }
+  ]
+}
