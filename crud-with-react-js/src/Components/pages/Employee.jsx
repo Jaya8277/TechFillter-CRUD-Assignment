@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import EmployeeDetails from "./EmployeeDetail";
-import './Detail.css';
+import '../style/Detail.css';
 const Employee = () => {
   const [data, setData] = useState([]);
   const [num,setNum] = useState(1);

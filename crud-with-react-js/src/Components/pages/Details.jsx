@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
-import './Detail.css'
+import '../style/Detail.css'
 
 const Details = () => {
     const [data, setData] = useState({});

@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useState } from 'react'
 import {useParams,useNavigate} from 'react-router-dom';
-import './Add.css'
+import '../style/Add.css'
 const EditEmploye = () => {
   const [name,setName] = useState("");
   const [age,setAge] = useState(0);

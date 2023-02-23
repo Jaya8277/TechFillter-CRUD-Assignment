@@ -1,10 +1,10 @@
 import './App.css';
 import {Routes,Route} from 'react-router-dom';
-import AddEmployee from './Components/AddEmployee';
-import Employee from './Components/Employee';
-import Navbar from './Components/Navbar';
-import EditEmploye from './Components/EditEmploye';
-import Details from './Components/Details';
+import AddEmployee from './Components/pages/AddEmployee';
+import Employee from './Components/pages/Employee';
+import Navbar from './Components/pages/Navbar';
+import EditEmploye from './Components/pages/EditEmploye';
+import Details from './Components/pages/Details';
 function App() {
   return (
     <div className="App">
