@@ -2,7 +2,7 @@ import { ref } from 'vue'
 import axios from 'axios'
 
 export default function useEmployee() {
-  const url = "http://localhost:3333/EmployeeData/"
+  const url = "http://localhost:8081/EmployeeData/"
   const employeData = ref([])
   const error = ref(null)
   const statusCode = ref(null)
