@@ -2,7 +2,7 @@
 
 If You want to run then You will have to run on Local server.
 
-CRUD app with react Deployed Link :- https://aesthetic-speculoos-822764.netlify.app/
+CRUD app with react Deployed Link :- https://react-crud-822764.netlify.app/
 
 Snap
 
