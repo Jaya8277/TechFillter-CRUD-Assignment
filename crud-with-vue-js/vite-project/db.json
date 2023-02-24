@@ -1,10 +1,10 @@
 {
   "EmployeeData": [
     {
-      "name": "Jaya Vishwakarma",
-      "age": "20",
-      "degination": "REACT",
-      "id": 2
+      "name": "jayavish",
+      "age": "23",
+      "degination": "FRONTEND",
+      "id": 3
     }
   ]
 }
